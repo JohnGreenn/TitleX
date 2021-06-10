@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TitleX">
+
+        <attr name="leftIcon" format="reference" />
+
+    </declare-styleable>
+
+    <declare-styleable name="TitleEasy">
+        <attr name="title_text_color" format="color" />
+        <attr name="title_bg" format="color" />
+        <attr name="title_text" format="string" />
+    </declare-styleable>
+
+</resources>
